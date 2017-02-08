@@ -1,0 +1,1 @@
+I think decision tree will work well for education, since there is a parent correlation ship between final and grade; however, as with music, the correlation is not that obvious so it remains discovery

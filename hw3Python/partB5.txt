@@ -1,0 +1,1 @@
+I don’t think this is an appropriate algorithm because it just simplifies the learning process by only considering attributes as a whole while ignoring each attribute as individual.

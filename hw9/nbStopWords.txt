@@ -1,0 +1,1 @@
+When I set N to 10, the accuracy does not change much. But as N becomes larger, the accuracy becomes better. However, when it comes to a certain number, accuracy does not increase.

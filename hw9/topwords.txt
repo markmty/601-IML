@@ -1,0 +1,3 @@
+The two lists looks similar and there are a lot of overlapping words but with different probability.
+
+In general ,they are trivial words without concern of liberate or conservative.
